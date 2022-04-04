@@ -1,0 +1,1 @@
+Output path for the protoc code generator.
