@@ -75,6 +75,6 @@ A first PLCnext Technology related example can be found in the PLCnext Community
 
 ## 5. PLCnext C++ RSC API adaptation
 
-You can find all the protobuf interface description files on our [gRPC GitHub repository](TBD).
+You can find all the protobuf interface description files located in the [protobuf](/protobuf) folder of this repository.
 
 The interface is similar to the C++ RSC interface and does accept the same parameters. You can find the information in the dedicated chapters about the service components in the [PLCnext Info Center](https://www.plcnext.help/te/Service_Components/Service_Components.htm) or in the [API documentation](https://www.plcnext.help/te/Programming/Cpp/PLCnext_API_documentation.htm).
